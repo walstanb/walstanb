@@ -4,7 +4,7 @@
 **walstanb/walstanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Walstan I'm a software engineer previously worked at [@resilient-tech](https://github.com/resilient-tech) as a full-stack dev building modules and fixing issues at [@frappe](https://github.com/frappe) and [@erpnext](https://github.com/frappe/erpnext)
+I'm Walstan I'm a software engineer previously worked at [@resilient-tech](https://github.com/resilient-tech) as a full-stack dev building modules and fixing issues at [@frappe](https://github.com/frappe) and [@erpnext](https://github.com/frappe/erpnext).
 
 - 🔭 I’m currently working as a Graduate Research Assistant at Arizona State University testing out tools for formal verification and robustness analysis of hybrid systems, focusing on cyber-physical systems security in Defense & Aviation Systems.
 - 🌱 I’m currently learning about effects of mutation on evolution of neural networks
