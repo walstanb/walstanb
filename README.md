@@ -4,7 +4,8 @@
 **walstanb/walstanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Walstan I'm a software engineer previously worked at [@resilient-tech](https://github.com/resilient-tech) as a full-stack dev building modules and fixing issues at [@frappe](https://github.com/frappe) and [@erpnext](https://github.com/frappe/erpnext).
+I'm Walstan I'm a coder previously worked at [@resilient-tech](https://github.com/resilient-tech) as a full-stack dev building modules and fixing issues at [@frappe](https://github.com/frappe) and [@erpnext](https://github.com/frappe/erpnext). When I'm not busy typing away at my keyboard, you can find me hiking, gaming, or just exploring the world. I'm always up for a challenge, so if you have a project you want to bring to life, let's make it happen! Check out my profile for a glimpse of my projects and contributions.
+
 
 - 🔭 I’m currently working as a Graduate Research Assistant at Arizona State University testing out tools for formal verification and robustness analysis of hybrid systems, focusing on cyber-physical systems security in Defense & Aviation Systems.
 - 🌱 I’m currently learning about effects of mutation on evolution of neural networks
@@ -12,7 +13,7 @@ I'm Walstan I'm a software engineer previously worked at [@resilient-tech](https
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I have a coin from almost every country in the world.
 
-### Skills <br>
+### Things I code with <br>
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -45,4 +46,10 @@ I'm Walstan I'm a software engineer previously worked at [@resilient-tech](https
   <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" />
+</p>
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/walstanb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/walstanb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@walstanb" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
