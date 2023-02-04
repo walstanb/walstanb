@@ -8,9 +8,9 @@ I'm Walstan I'm a coder previously worked at [@resilient-tech](https://github.co
 
 
 - 🔭 I’m currently working as a Graduate Research Assistant at Arizona State University testing out tools for formal verification and robustness analysis of hybrid systems, focusing on cyber-physical systems security in Defense & Aviation Systems.
-- 🌱 I’m currently learning about effects of mutation on evolution of neural networks
+- 🌱 I’m currently learning about constructive effects of mutation and random restructuring on evolution speices simulated through artificial neural networks.
 - 📫 How to reach me: You can reach me out via email at walstanb@gmail.com
-- 😄 Pronouns: He / Him
+- 😄 Pronouns: He / Him.
 - ⚡ Fun fact: I have a coin from almost every country in the world.
 
 ### Things I code with <br>
