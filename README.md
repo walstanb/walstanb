@@ -28,7 +28,7 @@ I'm Walstan I'm a coder previously worked at [@resilient-tech](https://github.co
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencV&logoColor=white" />
-  <img alt="CUDA Toolkit" src="https://img.shields.io/badge/-CUDA-Toolkit-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img alt="CUDA Toolkit" src="https://img.shields.io/badge/-CUDA_Toolkit-76B900?style=flat&logo=nvidia&logoColor=white" />
   <img alt="ROS" src="https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
