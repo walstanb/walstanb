@@ -47,6 +47,7 @@ I'm Walstan I'm a coder previously worked at [@resilient-tech](https://github.co
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" />
 </p>
 
