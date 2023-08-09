@@ -13,7 +13,7 @@ I'm Walstan I'm a coder previously worked at [@resilient-tech](https://github.co
 - 😄 Pronouns: He / Him.
 - ⚡ Fun fact: I have a coin from almost every country in the world.
 
-### Things I code with <br>
+### Tech Skills <br>
 
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" />
