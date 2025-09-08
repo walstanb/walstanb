@@ -4,12 +4,11 @@
 **walstanb/walstanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Walstan I'm a coder previously worked at [@resilient-tech](https://github.com/resilient-tech) as a full-stack dev building modules and fixing issues at [@frappe](https://github.com/frappe) and [@erpnext](https://github.com/frappe/erpnext). When I'm not busy typing away at my keyboard, you can find me hiking, gaming, or just exploring the world. I'm always up for a challenge, so if you have a project you want to bring to life, let's make it happen! Check out my profile for a glimpse of my projects and contributions.
+I'm Walstan I'm a coder currently working at [ Apple](https://apple.com) previously worked at [@resilient-tech](https://github.com/resilient-tech) as a full-stack dev building modules and fixing issues at [@frappe](https://github.com/frappe) and [@erpnext](https://github.com/frappe/erpnext). When I'm not busy typing away at my keyboard, you can find me hiking, gaming, or just exploring the world. I'm always up for a challenge, so if you have a project you want to bring to life, let's make it happen! Check out my profile for a glimpse of my projects and contributions.
 
 
-- 🔭 I’m currently working as a Graduate Research Assistant at Arizona State University testing out tools for formal verification and robustness analysis of hybrid systems, focusing on cyber-physical systems security in Defense & Aviation Systems.
-- 🌱 I’m currently learning about constructive effects of mutation and random restructuring on evolution speices simulated through artificial neural networks.
-- 📫 How to reach me: You can reach me out via email at walstanb@gmail.com
+- 🔭 I’m currently working as a Software Engineer, improving systems powering Apple Store sales.
+- 📫 How to reach me: You can reach me via email at walstanb@gmail.com
 - 😄 Pronouns: He / Him.
 - ⚡ Fun fact: I have a coin from almost every country in the world.
 
@@ -65,10 +64,11 @@ I'm Walstan I'm a coder previously worked at [@resilient-tech](https://github.co
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
 <img alt="Travis CI" src="https://img.shields.io/badge/-Travis_CI-3EAAAF?style=flat&logo=travisci&logoColor=white" />
 <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+<img alt="MCP" src="https://img.shields.io/badge/-Model_Context_Protocol-000000?style=flat&logo=modelContextProtocol&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/walstanb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<p><a href="https://walstan.me/" target="_blank"><img alt="My Website" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/walstanb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@walstanb" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
