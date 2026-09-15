@@ -4,10 +4,10 @@
 **walstanb/walstanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Walstan I'm a coder currently working at [ Apple](https://apple.com) previously worked at [@resilient-tech](https://github.com/resilient-tech) as a full-stack dev building modules and fixing issues at [@frappe](https://github.com/frappe) and [@erpnext](https://github.com/frappe/erpnext). When I'm not busy typing away at my keyboard, you can find me hiking, gaming, or just exploring the world. I'm always up for a challenge, so if you have a project you want to bring to life, let's make it happen! Check out my profile for a glimpse of my projects and contributions.
+I'm Walstan I'm a coder currently working at [Augment](https://goaugment.com) previously worked at [ Apple](https://apple.com) and [@resilient-tech](https://github.com/resilient-tech) as a full-stack dev building modules and fixing issues at [@frappe](https://github.com/frappe) and [@erpnext](https://github.com/frappe/erpnext). When I'm not busy typing away at my keyboard, you can find me hiking, gaming, or just exploring the world. I'm always up for a challenge, so if you have a project you want to bring to life, let's make it happen! Check out my profile for a glimpse of my projects and contributions.
 
 
-- 🔭 I’m currently working as a Software Engineer, improving systems powering Apple Store sales.
+- 🔭 I’m currently working as a Software Engineer, integrating systems for Augment.
 - 📫 How to reach me: You can reach me via email at walstanb@gmail.com
 - 😄 Pronouns: He / Him.
 - ⚡ Fun fact: I have a coin from almost every country in the world.
